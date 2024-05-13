@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**Matheus23dev/Matheus23dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Melhores Tecnologias <3</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+   </div>
+    
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: 87284194mts@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/matheus-silva-022211309">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://www.instagram.com/matheus2309/">
+      <img width="25" src="instagram.png">
+    </a>
+</div>
+  
+![Snake animation](https://github.com/Matheus23dev/Matheus23dev/blob/output/github-contribution-grid-snake.svg)
