@@ -25,7 +25,7 @@
 
 ![node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Tawind](https://img.shields.io/badge/tawind-E44C30?style=for-the-badge&logo=tawind&logoColor=white)&nbsp;
+![Taiwind](https://img.shields.io/badge/tawind-E44C30?style=for-the-badge&logo=tawind&logoColor=white)&nbsp;
 
 
 #### Workstation Tools:
